@@ -1,0 +1,2 @@
+1. Users can manage their contacts(CRUD).
+2. Users can merge duplicate contacts.
